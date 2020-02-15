@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://ErkOnGitHub.github.io/erkWorld",
+  "homepage": "http://erkongithub.github.io/erkWorld",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
