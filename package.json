@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "http://erkongithub.github.io/erkWorld",
+  "homepage": "https://erkcode.github.io/memory",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
